@@ -1,4 +1,5 @@
 {
     ["ADMIN-KEY"] = "TON_HWID",
     ["username75xxx69"] = "29d33806e53a83c616df-54d2-44a4-82b8-",
+    ["username75xxx69"] = "83c616df-54d2-44a4-82b8-29d33806e53a",
 }
