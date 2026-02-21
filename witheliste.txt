@@ -1,0 +1,3 @@
+return {
+    ["ADMIN-KEY"] = "TON_HWID",
+}
